@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API = "http://localhost:8000";
+const API = "https://cold-outreach-tracker-backend.onrender.com";
 
 const STATUS_CONFIG = {
   draft:     { label: "Draft",     color: "bg-slate-100 text-slate-600 border-slate-200" },
